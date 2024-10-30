@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "t01_generics"
 version = "0.1.0"
+
+[[package]]
+name = "t02_trait"
+version = "0.1.0"
