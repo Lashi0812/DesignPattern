@@ -1,4 +1,4 @@
 [workspace]
-members = ["t00_playground", "t01_generics", "t02_trait"]
+members = ["t00_playground", "t01_generics", "t02_trait", "t03_single_resp_principle"]
 
 resolver = "2"
