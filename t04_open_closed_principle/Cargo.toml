@@ -1,0 +1,6 @@
+[package]
+name = "t04_open_closed_principle"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

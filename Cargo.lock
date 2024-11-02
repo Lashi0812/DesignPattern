@@ -125,6 +125,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "t04_open_closed_principle"
+version = "0.1.0"
+
+[[package]]
 name = "typenum"
 version = "1.17.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
