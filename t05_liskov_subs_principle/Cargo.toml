@@ -1,0 +1,6 @@
+[package]
+name = "t05_liskov_subs_principle"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
